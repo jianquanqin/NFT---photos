@@ -1,2 +1,2 @@
-# NFT---photos
+# nft-photos
 a smart contract
